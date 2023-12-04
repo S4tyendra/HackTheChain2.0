@@ -318,6 +318,7 @@
 
 
   @media only screen and (max-width: 480px) {
+
     .sh-p {
         border-radius: 59% 41% 56% 44% / 41% 56% 44% 59% ;
         background-color: #5E28A7;
@@ -348,6 +349,9 @@
     }
     .faq-image {
         display: none;
+    }
+    .title-1{
+        font-size: 30px;
     }
  }
 
@@ -461,3 +465,4 @@
     border-radius: 10px;
     margin: auto;
   }
+
